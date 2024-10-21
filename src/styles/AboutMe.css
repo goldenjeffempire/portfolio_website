@@ -1,0 +1,24 @@
+/* src/styles/AboutMe.css */
+
+#about-me {
+    text-align: center;
+    padding: 20px;
+}
+
+#about-me img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+#about-me h2 {
+    font-size: 2rem;
+}
+
+#about-me p {
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
